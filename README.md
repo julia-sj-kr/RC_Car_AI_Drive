@@ -1,4 +1,6 @@
-[background knowledge]()
+[프로젝트 내용으로 바로가기](#ai-driving-project)
+
+# AI driving background knowledge
 
 1. 데이터 수집: 인공지능 자율주행 자동차를 주행시키며 영상데이터와 조이스틱 조종 데이터를 수집합니다.  
 2. 인공지능 학습 시 영상데이터는 CNN 인공 신경망의 입력데이터가 되며 조종 데이터는 라벨 데이터가 됩니다.  
@@ -64,5 +66,5 @@ IoT 시스템의 구성 요소:
 <img width="295" alt="퍼셉트론의 동작원리" src="https://github.com/user-attachments/assets/0a1cb97b-c2b9-4289-82c4-9273f0e50f19"><br>
 <img src="https://github.com/user-attachments/assets/57cdea23-b635-4919-8c62-73ae843839b5" alt="image" width="400">
 
-
-
+---
+# AI driving project
