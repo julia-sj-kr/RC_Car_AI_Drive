@@ -79,3 +79,10 @@ IoT 시스템의 구성 요소:
 
 
 
+https://github.com/user-attachments/assets/2d07bee3-4eb5-4b49-98e0-209a07399437
+
+
+
+
+
+
