@@ -105,6 +105,7 @@ https://github.com/user-attachments/assets/2d07bee3-4eb5-4b49-98e0-209a07399437
 
 
 >🛠️ NumPy는 파이썬에서 수치 계산을 수행하는 데 사용되는 핵심 라이브러리로, 특히 배열 처리와 행렬 연산에 최적화되어 있습니다.
+>TensorFlow는 기본적으로 NumPy 배열을 지원하며, 두 라이브러리를 함께 사용할 수 있습니다. NumPy 배열을 TensorFlow 텐서로 변환하거나 그 반대로 변환할 수 있습니다.
 
 
 
