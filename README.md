@@ -67,4 +67,10 @@ IoT 시스템의 구성 요소:
 <img src="https://github.com/user-attachments/assets/57cdea23-b635-4919-8c62-73ae843839b5" alt="image" width="400">
 
 ---
-# AI driving project
+# AI driving project  
+
+
+https://github.com/user-attachments/assets/28e8bd59-86e5-49ef-a378-40b2de9c3f3c
+
+
+
