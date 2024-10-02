@@ -45,7 +45,24 @@ IoT 시스템의 구성 요소:
 활성화 함수는 인공 신경망의 활용 영역에 따라 달리 사용됩니다.  
 - 일반적으로 출력 값을 0에서 1사이의 값으로 하고자 할 경우엔 `sigmoid 함수`
 - 0보다 큰 출력 값만 내보내고자 할 경우엔 `relu 함수`
-- 특히 다음은 분류를 위해 출력 층에 사용할 수 있는 활성화 함수로 softmax라고 합니다.
-![softmax](https://github.com/user-attachments/assets/241cbab4-306e-40c9-a960-41f9d82d114c)
+- 특히 다음은 분류를 위해 출력 층에 사용할 수 있는 활성화 함수로 `softmax 함수`라고 합니다.
+
+    <img src="https://github.com/user-attachments/assets/241cbab4-306e-40c9-a960-41f9d82d114c" alt="image" width="400">
+
+---
+### 퍼셉트론의 이해  
+퍼셉트론은 생물학적 신경의 동작 원리에서 영감을 받아 만들어졌으며 입력값과 가중치의 곱의 합계에 임계값을 적용하여 출력값을 결정하는 방식으로 동작합니다. 퍼셉트론은 딥러닝의 기본원리를 이해하는데 중요한 바탕이 됩니다.  
+인공 신경의 학습과정은 가중치 w와 편향 b의 값을 조절하는 과정입니다. 인공 신경이 적절히 학습되면 입력값 x에 대해 원하는 출력값 y가 나오게 됩니다.
+- 가장 간단한 형태의 인공 신경
+  ```
+  y=x*w+1*b
+  ```
+  <img src="https://github.com/user-attachments/assets/2e720e32-e19a-4cdb-aa7f-bdf4da9c6744" alt="image" width="300">
+  
+- 입력이 2개인 퍼셉트론
+
+<img width="295" alt="퍼셉트론의 동작원리" src="https://github.com/user-attachments/assets/0a1cb97b-c2b9-4289-82c4-9273f0e50f19"><br>
+<img src="https://github.com/user-attachments/assets/57cdea23-b635-4919-8c62-73ae843839b5" alt="image" width="400">
+
 
 
