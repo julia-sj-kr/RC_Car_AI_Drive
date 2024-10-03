@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/2d07bee3-4eb5-4b49-98e0-209a07399437
 >🛠️ TensorFlow는 딥러닝 모델을 만들고 학습시키기 위한 강력한 라이브러리입니다.  
 >Google이 개발한 이 라이브러리는 머신러닝과 딥러닝 작업을 수행하는 데 주로 사용됩니다.
 >TensorFlow의 Keras API는 딥러닝 모델을 간편하게 구축할 수 있는 고수준 API입니다.
->> 주요 구성 요소 및 구조  
+>> 주요 구성 요소 및 구조  [TensorFlow 더알아보기](TensorFlow_Terminology.md)
 >>- `텐서(tensor)`는 TensorFlow의 핵심 데이터 구조입니다. 텐서는 다차원 배열로, 숫자 데이터를 담는 컨테이너라고 할 수 있습니다.
 >>- 텐서는 다양한 수학적 연산을 할 수 있는 객체입니다. TensorFlow는 이러한 연산을 `연산 그래프(Operation Graph)`로 구성하여 수행합니다.(경사 하강법, 최적화 알고리즘 등을 지원)
 >>- 모든 연산은 `계산 그래프`에 추가되며, 노드들은 연산을 나타내고, 엣지들은 데이터 흐름을 나타냅니다.
